@@ -1,0 +1,12 @@
+{
+	"name": "AzureTable1_dataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureTableStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureTable",
+		"schema": []
+	}
+}
