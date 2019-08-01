@@ -330,7 +330,7 @@
 				"type": "AzureTable",
 				"schema": [],
 				"typeProperties": {
-					"tableName": "energyreading"
+					"tableName": "energy"
 				}
 			},
 			"dependsOn": [
